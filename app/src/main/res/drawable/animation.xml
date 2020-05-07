@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/laya1" android:duration="150"
+        android:id="@+id/a1"/>
+
+    <item android:drawable="@drawable/laya2" android:duration="150"
+        android:id="@+id/a2"/>
+    <item android:drawable="@drawable/laya3" android:duration="150"
+        android:id="@+id/a3"/>
+    <item android:drawable="@drawable/laya4" android:duration="150"
+        android:id="@+id/a4"/>
+    <item android:drawable="@drawable/laya5" android:duration="150"
+        android:id="@+id/a5"/>
+    <item android:drawable="@drawable/laya6" android:duration="150"
+        android:id="@+id/a6"/>
+    <item android:drawable="@drawable/laya7" android:duration="150"
+        android:id="@+id/a7"/>
+    <item android:drawable="@drawable/laya8" android:duration="150"
+        android:id="@+id/a8"/>
+    <item android:drawable="@drawable/laya9" android:duration="150"
+        android:id="@+id/a9"/>
+    <item android:drawable="@drawable/laya10" android:duration="150"
+        android:id="@+id/a10"/>
+    <item android:drawable="@drawable/laya11" android:duration="150"
+        android:id="@+id/a11"/>
+</animation-list>
